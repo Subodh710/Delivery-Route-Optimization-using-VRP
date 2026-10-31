@@ -1,0 +1,7 @@
+# Developed and tested with: ortools 9.15, pandas 3.0, numpy 2.5, openpyxl 3.1, matplotlib 3.11 on Python 3.13.
+# The lower bounds below are what the code is believed to need; they have not been tested on older versions.
+ortools>=9.10
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+matplotlib>=3.7

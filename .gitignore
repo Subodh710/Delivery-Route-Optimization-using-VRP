@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Excel lock files and scratch output (the sample workbook in output/ is kept)
+~$*.xlsx
+output/*
+!output/VRP_Delivery_Optimization.xlsx
+my_output/
